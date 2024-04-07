@@ -26,9 +26,9 @@ Before running the code, ensure you have the following installed on your system:
      ```
 
 3. **Create Python venv**:
-   python3 -m venv venv
-   source venv/bin/activate (For MAC)
-   venv\Scripts\activate (Windows)
+   - python3 -m venv venv
+   - source venv/bin/activate (For MAC)
+   - venv\Scripts\activate (Windows)
 
 
 4. **Install dependencies/Library**:
